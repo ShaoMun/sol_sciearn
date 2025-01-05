@@ -1,3 +1,20 @@
+## Core Technologies
+
+### Languages
+- **TypeScript** - Primary programming language
+- **JavaScript** - Supporting language
+- **CSS/SCSS** - Styling
+
+### Frontend Framework
+- **Next.js 15.1.2** - React framework for production
+- **React** - UI library for building user interfaces
+
+### Styling
+- **Tailwind CSS** - Utility-first CSS framework
+
+### Blockchain Integration
+- **Solana Web3.js** - Solana blockchain interaction
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started

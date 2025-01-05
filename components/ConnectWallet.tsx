@@ -22,9 +22,9 @@ export const ConnectWallet: FC = () => {
   };
 
   const roleStyles: Record<Role, string> = {
-    User: "bg-[#4C44C6]",
-    Researcher: "bg-[#00E5FF]",
-    Reviewer: "bg-[#39FF14]"
+    User: "bg-gradient-to-r from-black/80 to-black/60 border-[#39FF14]",
+    Researcher: "bg-gradient-to-r from-black/80 to-black/60 border-[#14FFE5]",
+    Reviewer: "bg-gradient-to-r from-black/80 to-black/60 border-[#FF14E5]"
   };
 
   const roleHoverEffects: Record<Role, string> = {

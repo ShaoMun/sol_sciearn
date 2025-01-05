@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FlaskProgress } from '../components/FlaskProgress';
+// import { FlaskProgress } from '../components/FlaskProgress';
 import { SubmissionStatus } from '../components/SubmissionStatus';
 
 const ResearcherPage = () => {
